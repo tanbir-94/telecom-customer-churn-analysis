@@ -130,8 +130,8 @@ Designed to simulate real-world telecom analytics use cases.
 
 ## Author
 
-Md Tanbir Rja
-Aspiring Data Analyst
+Md Tanbir Rja | Aspiring Data Analyst |
 
 
 Focused on building business-driven analytics solutions using SQL, Python, Excel, and Power BI.
+
